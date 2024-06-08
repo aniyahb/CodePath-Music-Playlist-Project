@@ -2,5 +2,170 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-color: rgba(192, 180, 211, 0.521)55, 255, 255;
 }
+
+header {
+    background-color: rgb(177, 186, 231);
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+main{
+    padding: 15px;
+}
+
+.playlist-cards{
+    display: flex;
+    flex-direction:row;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content:center;
+
+}
+
+.playlist{
+   background-color: rgb(231, 220, 242);
+   border-radius: 10px;
+   padding: 10px;
+
+
+
+}
+
+.playlist img{
+    height:200px;
+    width:200px;
+    border-radius: 10px;
+
+
+}
+
+.playlist-info{
+   margin: 10px;
+
+
+}
+
+.modal-overlay {
+
+    display: hidden;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+ }
+ .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    border-radius: 20px;
+    position: relative;
+ }
+
+ .close {
+    color: #1f0808;
+    float: right;
+    font-size: 10px;
+    position:absolute;
+    top: 0;
+    right:0;
+    border-radius: 5px;
+
+ }
+ /* .close:hover, */
+ .close:focus {
+    color: rgb(182, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+ }
+
+
+
+ .modal-heading{
+    display:flex;
+    gap: 10px;
+ }
+
+ .modal-heading img{
+    height: 200px;
+    width: 200px;
+    border: 20px;
+    padding: 10px;
+    border-radius: 20px;
+ }
+
+ /* .song-list{
+    display:flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100px;
+    width: 100px;
+ } */
+
+ .song-cards{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+
+ }
+
+ .song{
+    display: flex;
+    background-color: aliceblue;
+    gap:10px;
+    padding:10px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+
+ }
+
+ .song img{
+    height: 125px;
+    width: 125px;
+    border-radius: 10px;
+
+
+ }
+
+ .more-Songs img {
+   height: 100px;
+   width: 100px;
+   border: 20px;
+   padding: 10px;
+   border-radius: 10px;
+
+ }
+
+ .more-Songsinfo{
+   flex: 1;
+   gap:10px;
+   padding:5px;
+   border-radius: 10px;
+}
+ #close:hover {
+    cursor: pointer;
+    color: red;
+
+ }
+
+ .shuffle-button{
+   margin: 10px;
+   padding: 5px;
+   background-color:rgb(177, 186, 231) ;
+   border-radius: 10px;
+   text-align: center;
+   text-decoration: none;
+   width: 100px;
+
+
+ }
