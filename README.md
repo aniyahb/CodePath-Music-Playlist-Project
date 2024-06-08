@@ -1,65 +1,55 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
+`NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
 
-## Unit 1 Assignment: Globetrotter
+## Unit 2 Assignment: Music Playlist Explorer
 
-Submitted by: **NAME**
+Submitted by: Aniyah Bunn 
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 96hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
 ### Application Features
 
 #### CORE FEATURES
 
-- [ ] **Home Page**
-  - [ ] A heading that captures the essence of the destination.
-  - [ ] An introductory paragraph that welcomes visitors and sets the context for the site.
-  - [ ] An evocative image that represents the location.
-  - [ ] Content organized using Flexbox for a fluid layout.
+- [x] **Display Playlists**
+  - [x] Dynamically render playlists on the homepage using JavaScript.
+  - [x ] Fetch data from a provided JSON file and use it to create interactive playlist tiles.
+  - [ x] Each title should display the playlist's cover image, name, creator, and like count.
 
-- [ ] **Top Attractions Page**
-  - [ ] A minimum of three attractions, each with a name, a photo, and a brief description.
-  - [ ] Content arranged with Flexbox for consistency and responsiveness.
+- [ x] **Playlist Details**
+  - [x ] Create a modal view that displays detailed information about a playlist when a user clicks on a playlist tile.
+  - [ x] The modal should show the playlist's cover image, name, creator, and a list of songs, including their titles, artists, and durations.
 
-- [ ] **Guide Section (Choose One)**
-  - [ ] Either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
-  - [ ] At least three entries that provide a name, address, and a description catered to a specific type of traveler (families, backpackers, etc.).
-  - [ ] Links to more information for each entry, laid out using Flexbox.
+- [ x] **Like Playlists**
+  - [x ] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
+  - [x ] Update the like count on the playlist tile when a playlist is liked or unliked.
 
-- [ ] **Photo Gallery**
-  - [ ] At least five images with captions that convey the local atmosphere or highlights.
-  - [ ] A gallery presented in a responsive design.
-
-- [ ] **Navigation Bar**
-  - [ ] Links to each main page of the site (Home, Top Attractions, Photo Gallery, and the chosen Guide section).
-  - [ ] A navigation bar styled with Flexbox that adapts to different screen sizes.  
-
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones, achieved with media queries.
+- [ ] **Shuffle Songs**
+  - [ ] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist detail modal.
+  - [ ] Rearrange the songs in the modal view when the shuffle button is clicked.
 
 #### STRETCH FEATURES
 
-- [ ] **Additional Media**
-  - Embed a map or a video that relates to the travel content.
+- [ ] **Add New Playlists**
+  - [ ] Allow users to create new playlists.
+  - [ ] Users can input playlist name, creator, and add multiple songs with details like title, artist, and duration.
 
-- [ ] **Enhanced Layouts**
-  - Utilize CSS Grid on one or more pages for a unique layout.
+- [ ] **Edit Existing Playlists**
+  - [ ] Enable users to modify the details of existing playlists.
+  - [ ] Add an edit button to each playlist tile.
+  - [ ] Users can update the name, creator, and songs of the playlist.
 
-- [ ] **Interactive Features**
-  - Implement a dropdown menu in the navigation bar for additional categories or sub-pages.
+- [ ] **Delete Playlists**
+  - [ ] Add a delete button to each playlist tile.
+  - [ ] When clicked, the playlist is removed from the display and data model.
 
-- [ ] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
+- [ ] **Search Functionality**
+  - [ ] Implement a search bar that allows users to filter playlists by name or creator.
 
-- [ ] **Interactive Navigation**: Enhance the usability of your navigation bar.
-  - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.
+- [ ] **Sorting Options**
+  - [ ] Implement a dropdown or button options that allow users to sort the playlist by name, number of likes, or date added.
 
-- [ ] **User Engagement**: Encourage interaction and engagement from your site visitors.
-  - Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
-
-- [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
-  - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
