@@ -51,9 +51,14 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 ### Walkthrough Video
 
-`ADD_EMBEDDED_CODE_HERE`
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/d84ffef0adce41b082a3cc77e6257aed?sid=d70814b2-b9d1-4484-8f5d-6c30b30a0b36" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/d84ffef0adce41b082a3cc77e6257aed">
+      <p>Meta University Project 1 Submission 🎬 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d84ffef0adce41b082a3cc77e6257aed">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d84ffef0adce41b082a3cc77e6257aed-1717816821267-with-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
