@@ -1,5 +1,3 @@
-`NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit 2 Assignment: Music Playlist Explorer
 
 Submitted by: Aniyah Bunn 
@@ -52,8 +50,6 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 
 ### Walkthrough Video
-
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
 `ADD_EMBEDDED_CODE_HERE`
 <div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/d84ffef0adce41b082a3cc77e6257aed?sid=d70814b2-b9d1-4484-8f5d-6c30b30a0b36" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
