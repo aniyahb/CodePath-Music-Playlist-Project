@@ -68,7 +68,7 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-- I would've focused moreo on functionality, I underestimated the difficulty of Javascript.
+- I would've focused more on functionality, I underestimated the difficulty of Javascript.
   
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
