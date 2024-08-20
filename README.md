@@ -23,32 +23,6 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
   - [x] Implement functionality to allow users to like playlists by clicking a heart icon on each playlist tile.
   - [x] Update the like count on the playlist tile when a playlist is liked or unliked.
 
-- [ ] **Shuffle Songs**
-  - [ ] Enable users to shuffle the songs within a playlist using a shuffle button in the playlist detail modal.
-  - [ ] Rearrange the songs in the modal view when the shuffle button is clicked.
-
-#### STRETCH FEATURES
-
-- [ ] **Add New Playlists**
-  - [ ] Allow users to create new playlists.
-  - [ ] Users can input playlist name, creator, and add multiple songs with details like title, artist, and duration.
-
-- [ ] **Edit Existing Playlists**
-  - [ ] Enable users to modify the details of existing playlists.
-  - [ ] Add an edit button to each playlist tile.
-  - [ ] Users can update the name, creator, and songs of the playlist.
-
-- [ ] **Delete Playlists**
-  - [ ] Add a delete button to each playlist tile.
-  - [ ] When clicked, the playlist is removed from the display and data model.
-
-- [ ] **Search Functionality**
-  - [ ] Implement a search bar that allows users to filter playlists by name or creator.
-
-- [ ] **Sorting Options**
-  - [ ] Implement a dropdown or button options that allow users to sort the playlist by name, number of likes, or date added.
-
-
 ### Walkthrough Video
 
 <div>
